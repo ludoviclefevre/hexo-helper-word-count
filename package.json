@@ -1,7 +1,7 @@
 {
   "name": "hexo-helper-word-count",
   "version": "0.0.1",
-  "description": "",
+  "description": "Post Word Count Plugin for Hexo.",
   "main": "index",
   "repository": {
     "type": "git",
