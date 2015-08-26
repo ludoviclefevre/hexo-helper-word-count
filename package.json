@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-word-count",
-  "version": "0.0.1",
+  "version": "0.0.2-pre",
   "description": "Post Word Count Plugin for Hexo.",
   "main": "index",
   "repository": {
@@ -24,9 +24,7 @@
   "homepage": "https://github.com/ludoviclefevre/hexo-helper-word-count#readme",
   "dependencies": {
     "html-to-text": "1.3.1",
-    "wordcount": "1.0.1",
-    "bluebird": "2.9.34",
-    "hexo": "3.1.1"
+    "wordcount": "1.0.1"
   },
   "devDependencies": {
     "chai": "3.2.0",
