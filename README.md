@@ -4,6 +4,7 @@
 [![Coverage Status][coveralls-image]][coveralls-url]
 [![Dependency Status][daviddm-url]][daviddm-image]
 [![Code Climate](https://codeclimate.com/github/ludoviclefevre/hexo-helper-word-count/badges/gpa.svg)](https://codeclimate.com/github/ludoviclefevre/hexo-helper-word-count)
+[![Codacy Badge](https://www.codacy.com/project/badge/677ecf236ae94c8db11db4a946112cf7)](https://www.codacy.com/app/contact_18/hexo-helper-word-count)
 
 Hexo helper that counts word in a specified text (post content for example).
 
