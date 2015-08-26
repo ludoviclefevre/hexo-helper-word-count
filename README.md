@@ -1,0 +1,1 @@
+# hexo-helper-word-count
