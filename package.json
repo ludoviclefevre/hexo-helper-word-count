@@ -27,6 +27,7 @@
     "wordcount": "1.0.1"
   },
   "devDependencies": {
+    "bluebird": "2.9.34",
     "chai": "3.2.0",
     "coveralls": "2.11.4",
     "grunt": "0.4.5",
