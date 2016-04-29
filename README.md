@@ -17,7 +17,7 @@ $ npm install hexo-helper-word-count --save
 
 ## Usage
 
-In your theme, to count post content words, add:
+To count post content words, add in your theme:
 
 ```html
 <%- wordcount(post.content) %>
