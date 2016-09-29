@@ -1,9 +1,9 @@
 {
-    "strict": true,
-    "node": true,
-    "quotmark": "single",
-    "mocha": true,
-    "globals": {
-        "hexo": true
-    }
+  "strict": true,
+  "node": true,
+  "quotmark": "single",
+  "mocha": true,
+  "globals": {
+    "hexo": true
+  }
 }

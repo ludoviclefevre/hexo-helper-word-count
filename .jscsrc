@@ -1,6 +1,13 @@
 {
-    "preset": "crockford",
-    "requireVarDeclFirst": null,
-    "requireMultipleVarDecl": null,
-    "validateQuoteMarks": "'"
+  "preset": "crockford",
+  "requireVarDeclFirst": null,
+  "requireMultipleVarDecl": null,
+  "validateQuoteMarks": null,
+  "validateLineBreaks": "LF",
+  "requireDotNotation": null,
+  "validateIndentation": 2,
+  "requireSpaceAfterKeywords": false,
+  "requireSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  }
 }
