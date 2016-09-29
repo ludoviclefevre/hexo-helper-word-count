@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-word-count",
-  "version": "0.0.2",
+  "version": "0.0.3-pre",
   "description": "Hexo helper that counts word in a specified text (post content for example).",
   "main": "index",
   "repository": {
